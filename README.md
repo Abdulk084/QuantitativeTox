@@ -22,8 +22,9 @@ cd PyBioMed
 python setup.py install
 cd ..
 ```
-5. Test model: 
+5. Test model for LD50 task: 
 ```
-python test.py
+cd LD50
+python LD50_test.py
 ```
-This will test the model on two external data sets mentioned in the paper.
+This will test the model on LD50 task as mentioned in the paper.
