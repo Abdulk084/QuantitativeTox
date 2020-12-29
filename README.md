@@ -40,3 +40,11 @@ cd IGC50
 python IGC50_test.py
 ```
 This will test the model on IGC50 task as mentioned in the paper and create a file with a name IGC50_test_results.csv.
+
+3. Testing LC50 task
+```
+cd ..
+cd LC50
+python IGC50_test.py
+```
+This will test the model on LC50 task as mentioned in the paper and create a file with a name LC50_test_results.csv.

@@ -1,0 +1,9 @@
+tensorflow>=2.1.0
+networkx
+pandas
+lxml
+joblib
+numpy
+scipy
+requests
+scikit-learn
