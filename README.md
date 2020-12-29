@@ -3,6 +3,13 @@
 ## Abdul Karim, Vahid Riahi, Avinash Mishra, Abdollah Dehzangi, MAHakim Newton,Thomas Balle and Abdul Sattar
 ### This is complementary code for running the models in the paper. Included are the trained models and the code to load and run inference.
 
+
+
+## Download to a local machine
+
+1. git clone https://github.com/Abdulk084/QuantitativeTox
+2. cd QuantitativeTox
+
 ## Installation
 
 Tested on Ubuntu 20.04 with Python 3.7.7
@@ -22,7 +29,6 @@ cd PyBioMed
 python setup.py install
 cd ..
 ```
-
 
 ## Testing models on four quantitaive toxicity tasks
 
