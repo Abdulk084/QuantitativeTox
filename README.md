@@ -26,7 +26,7 @@ cd ..
 
 ## Testing models on four quantitaive toxicity tasks
 
-# Testing LD50 task
+### Testing LD50 task
 ```
 1. cd LD50
 2. python LD50_test.py
