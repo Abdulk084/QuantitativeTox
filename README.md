@@ -14,7 +14,7 @@ conda env create -f environment.yml
 ```
 3. Activate environment: 
 ```
-conda activate cardiotox
+conda activate qtox
 ```
 4. Install pyBioMed:
 ```
