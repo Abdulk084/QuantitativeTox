@@ -1,4 +1,4 @@
-# QuantitativeTox: Quantitative toxicity predictionvia multi-task deep learning meta ensembling approaches
+# QuantitativeTox: Quantitative toxicity prediction via multi-task deep learning meta ensembling approaches
 
 ## Abdul Karim, Vahid Riahi, Avinash Mishra, Abdollah Dehzangi, MAHakim Newton,Thomas Balle and Abdul Sattar
 ### This is complementary code for running the models in the paper. Included are the trained models and the code to load and run inference.
@@ -16,14 +16,19 @@ conda env create -f environment.yml
 ```
 conda activate qtox
 ```
-4. Install pyBioMed:
+4. Install PyBioMed:
 ```
 cd PyBioMed
 python setup.py install
 cd ..
 ```
-5. Test model: 
+
+
+## Testing models on four quantitaive toxicity tasks
+
+1. Testing LD50 task
 ```
-python test.py
+cd LD50
+python LD50_test.py
 ```
-This will test the model on two external data sets mentioned in the paper.
+This will test the model on LD50 task as mentioned in the paper and create a file with a name LD50_test_results.csv.
