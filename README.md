@@ -26,9 +26,9 @@ cd ..
 
 ## Testing models on four quantitaive toxicity tasks
 
-### Testing LD50 task
+1. Testing LD50 task
 ```
-1. cd LD50
-2. python LD50_test.py
+cd LD50
+python LD50_test.py
 ```
 This will test the model on LD50 task as mentioned in the paper and create a file with a name LD50_test_results.csv.
