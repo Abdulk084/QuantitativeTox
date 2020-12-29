@@ -22,9 +22,13 @@ cd PyBioMed
 python setup.py install
 cd ..
 ```
-5. Test model for LD50 task: 
+
+
+## Testing models on four quantitaive toxicity tasks
+
+# Testing LD50 task
 ```
-cd LD50
-python LD50_test.py
+1. cd LD50
+2. python LD50_test.py
 ```
-This will test the model on LD50 task as mentioned in the paper.
+This will test the model on LD50 task as mentioned in the paper and create a file with a name LD50_test_results.csv.
