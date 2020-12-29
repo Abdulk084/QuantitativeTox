@@ -16,7 +16,7 @@ conda env create -f environment.yml
 ```
 conda activate qtox
 ```
-4. Install pyBioMed:
+4. Install PyBioMed:
 ```
 cd PyBioMed
 python setup.py install
