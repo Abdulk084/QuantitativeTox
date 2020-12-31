@@ -1,6 +1,6 @@
 # QuantitativeTox: Quantitative toxicity prediction via multi-task deep learning meta ensembling approaches
 
-## Abdul Karim, Vahid Riahi, Avinash Mishra, Abdollah Dehzangi, MAHakim Newton,Thomas Balle and Abdul Sattar
+## Abdul Karim, Vahid Riahi, Avinash Mishra, MAHakim Newton, Abdollah Dehzangi, Thomas Balle and Abdul Sattar
 ### This is complementary code for running the models in the paper. Included are the trained models and the code to load and run inference.
 
 
