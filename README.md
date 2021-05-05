@@ -3,6 +3,7 @@
 ## Abdul Karim, Vahid Riahi, Avinash Mishra, MAHakim Newton, Abdollah Dehzangi, Thomas Balle and Abdul Sattar
 ### This is complementary code for running the models in the paper. Included are the trained models and the code to load and run inference.
 
+https://pubs.acs.org/doi/10.1021/acsomega.1c01247
 
 
 ## Download to a local machine
